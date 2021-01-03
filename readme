@@ -1,0 +1,1 @@
+This React project is a TO-DO list system. It adds a new task to the list once the user types something in the text box and hit the "add" button. Cross a task once it is done, or when the user clicks it.
